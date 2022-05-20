@@ -3,7 +3,7 @@
 <p><em>
 </br>Mid-level Front-end Developer at <a href="https://investira.com.br/">Investira</a>. (Jan 2020 - Currently)
 </br>Jr. Software Developer at <a href="https://ejcm.com.br/">EJCM</a>. (Aug 2018 - Dec 2019)
-Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Currently)
+</br>Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Currently)
 </em></p><br>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
