@@ -1,10 +1,10 @@
 ### Hi there, I'm William Lucas 👋
 <img align='right' src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="230">
-<p><em>
+<!-- <p><em>
 </br>Front-end Developer at <a href="https://investira.com.br/">Investira</a>. (Jan 2020 - Aug 2022)
 </br>Front-end Developer at <a href="https://ejcm.com.br/">EJCM</a>. (Aug 2018 - Dec 2019)
 </br>Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Currently)
-</em></p><br>
+</em></p><br> -->
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
